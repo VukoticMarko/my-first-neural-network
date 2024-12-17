@@ -47,6 +47,7 @@ To run this neural network, you need **Python 3** and **NumPy**.
    cd simple-neural-network
 
 2. Install NumPy if it’s not already installed:
+   ```bash
     pip install numpy
 
 ## Usage
