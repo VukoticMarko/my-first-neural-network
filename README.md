@@ -72,9 +72,10 @@ Training Error: 0.5
 Validation Error: 0.5
 -------------------------------------------------------
 ...
+
 Iteration 10000,
-Training Error: 0.5625520978699162
-Validation Error: 0.24054312187155025
+Training Error: 0.56255...
+Validation Error: 0.24054...
 -------------------------------------------------------
 
 Synaptic weights after training:
