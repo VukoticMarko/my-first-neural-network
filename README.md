@@ -90,11 +90,16 @@ Output data:
 [0.989778]
 
 ## How It Works
-Initialization: Random weights are assigned.
-Forward Propagation: Inputs are multiplied by weights, and the sigmoid function is applied.
-Error Calculation: Error is calculated as the difference between actual and expected outputs.
-Weight Adjustment: The weights are updated using gradient descent based on the error.
-Training and Validation: The network trains iteratively and validates performance on a validation set.
+Initialization: Random weights are assigned.  
+
+Forward Propagation: Inputs are multiplied by weights, and the sigmoid function is applied.  
+
+Error Calculation: Error is calculated as the difference between actual and expected outputs.  
+
+Weight Adjustment: The weights are updated using gradient descent based on the error.  
+
+Training and Validation: The network trains iteratively and validates performance on a validation set.  
+
 Prediction: Once trained, the network can predict outputs for new inputs.
 
 ## License
